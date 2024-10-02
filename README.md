@@ -1,4 +1,4 @@
-## Tugas 6 Sistem Operasi
+## Tugas 7 Sistem Operasi
 
 Nama: Raihan Faiz Ramadhan
 
